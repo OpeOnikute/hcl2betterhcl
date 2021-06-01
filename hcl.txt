@@ -1,0 +1,5 @@
+"definition" = {
+  "legend_columns" = ["avg", "min", "max", "value", "sum"]
+  "legend_layout" = "vertical"
+  "markers" = []
+}
